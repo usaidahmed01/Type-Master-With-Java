@@ -16,7 +16,8 @@ public class WordGenerator {
         return "from the.";
     }
     public String level3 (){
-        return "from the pen to the king.";
+        String smallSentence = "from the pen to the king.";
+        return smallSentence;
     }
     public String level4 (){
         return "gawkkkkkkkkkkkkkkkkkkkkkkkkkk.";
